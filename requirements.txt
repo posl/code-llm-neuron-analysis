@@ -1,0 +1,12 @@
+transformers
+datasets
+accelerate
+sentencepiece
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+einops
+ipykernel
+human-eval

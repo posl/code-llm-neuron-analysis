@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+hf_cache/
+outputs/
+checkpoints/
+
+*.pt
+*.bin
+
+/datasets/senlp-benchmark/**/*.parquet
+/datasets/senlp-benchmark/**/*.pkl

@@ -1,0 +1,2837 @@
+[
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_354",
+    "overall_importance": 0.00946044921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00946044921875,
+    "specificity_cv": 0.6421543241843605,
+    "selectivity_score": 0.6421543241843605,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_859",
+    "overall_importance": 0.0081787109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0081787109375,
+    "specificity_cv": 0.6677047648707568,
+    "selectivity_score": 0.6677047648707568,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_3819",
+    "overall_importance": 0.008056640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.008056640625,
+    "specificity_cv": 0.6396123561477892,
+    "selectivity_score": 0.6396123561477892,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_2915",
+    "overall_importance": 0.0079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0079345703125,
+    "specificity_cv": 0.6409861325115562,
+    "selectivity_score": 0.6409861325115562,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_1518",
+    "overall_importance": 0.007659912109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.007659912109375,
+    "specificity_cv": 0.6380680012710518,
+    "selectivity_score": 0.6380680012710518,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_2937",
+    "overall_importance": 0.00714111328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00714111328125,
+    "specificity_cv": 0.6378194207836456,
+    "selectivity_score": 0.6378194207836456,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_down_proj_neuron_3265",
+    "overall_importance": 0.00701904296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00701904296875,
+    "specificity_cv": 0.6384455239417072,
+    "selectivity_score": 0.6384455239417072,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_1336",
+    "overall_importance": 0.0069580078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0069580078125,
+    "specificity_cv": 0.6379853095487933,
+    "selectivity_score": 0.6379853095487933,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_down_proj_neuron_1354",
+    "overall_importance": 0.0067138671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0067138671875,
+    "specificity_cv": 0.6480117820324006,
+    "selectivity_score": 0.6480117820324006,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_down_proj_neuron_337",
+    "overall_importance": 0.006591796875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.006591796875,
+    "specificity_cv": 0.6602980512036684,
+    "selectivity_score": 0.6602980512036684,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_down_proj_neuron_73",
+    "overall_importance": 0.00653076171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00653076171875,
+    "specificity_cv": 0.6858974358974359,
+    "selectivity_score": 0.6858974358974359,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_down_proj_neuron_2029",
+    "overall_importance": 0.00628662109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00628662109375,
+    "specificity_cv": 0.6392552366175329,
+    "selectivity_score": 0.6392552366175329,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_down_proj_neuron_3288",
+    "overall_importance": 0.006256103515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.006256103515625,
+    "specificity_cv": 0.6469428007889546,
+    "selectivity_score": 0.6469428007889546,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_down_proj_neuron_899",
+    "overall_importance": 0.005859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.005859375,
+    "specificity_cv": 0.6516758591429783,
+    "selectivity_score": 0.6516758591429783,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_down_proj_neuron_2405",
+    "overall_importance": 0.005645751953125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.005645751953125,
+    "specificity_cv": 0.6539991162174105,
+    "selectivity_score": 0.6539991162174105,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_down_proj_neuron_1791",
+    "overall_importance": 0.004425048828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.004425048828125,
+    "specificity_cv": 0.6364883401920439,
+    "selectivity_score": 0.6364883401920439,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_up_proj_neuron_185",
+    "overall_importance": 0.004150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.004150390625,
+    "specificity_cv": 0.871031497835931,
+    "selectivity_score": 0.871031497835931,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_3_mlp_up_proj_neuron_3021",
+    "overall_importance": 0.0035858154296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0035858154296875,
+    "specificity_cv": 1.4296572246751889,
+    "selectivity_score": 1.4296572246751889,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_12781",
+    "overall_importance": 0.0026702880859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0026702880859375,
+    "specificity_cv": 0.8705114254624592,
+    "selectivity_score": 0.8705114254624592,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_4_mlp_down_proj_neuron_941",
+    "overall_importance": 0.0024566650390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0024566650390625,
+    "specificity_cv": 0.6376237623762376,
+    "selectivity_score": 0.6376237623762376,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_468",
+    "overall_importance": 0.002227783203125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.002227783203125,
+    "specificity_cv": 0.8371259630890522,
+    "selectivity_score": 0.8371259630890522,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_up_proj_neuron_8490",
+    "overall_importance": 0.0021209716796875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0021209716796875,
+    "specificity_cv": 0.9638132131608217,
+    "selectivity_score": 0.9638132131608217,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_up_proj_neuron_408",
+    "overall_importance": 0.002105712890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.002105712890625,
+    "specificity_cv": 0.8694624926166569,
+    "selectivity_score": 0.8694624926166569,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_482",
+    "overall_importance": 0.0020751953125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0020751953125,
+    "specificity_cv": 0.6377491207502931,
+    "selectivity_score": 0.6377491207502931,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_30_mlp_up_proj_neuron_9739",
+    "overall_importance": 0.0019989013671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0019989013671875,
+    "specificity_cv": 0.6681542875358623,
+    "selectivity_score": 0.6681542875358623,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_up_proj_neuron_6700",
+    "overall_importance": 0.0019683837890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0019683837890625,
+    "specificity_cv": 0.6905319504851121,
+    "selectivity_score": 0.6905319504851121,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_gate_proj_neuron_408",
+    "overall_importance": 0.00191497802734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00191497802734375,
+    "specificity_cv": 0.891849877859205,
+    "selectivity_score": 0.891849877859205,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_1686",
+    "overall_importance": 0.00189971923828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00189971923828125,
+    "specificity_cv": 0.63744,
+    "selectivity_score": 0.63744,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_4_mlp_up_proj_neuron_1370",
+    "overall_importance": 0.00188446044921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00188446044921875,
+    "specificity_cv": 0.6664418212478921,
+    "selectivity_score": 0.6664418212478921,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_862",
+    "overall_importance": 0.00185394287109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00185394287109375,
+    "specificity_cv": 0.6550968828980623,
+    "selectivity_score": 0.6550968828980623,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_26_mlp_gate_proj_neuron_11172",
+    "overall_importance": 0.00171661376953125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00171661376953125,
+    "specificity_cv": 0.6500541711809318,
+    "selectivity_score": 0.6500541711809318,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_741",
+    "overall_importance": 0.001708984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001708984375,
+    "specificity_cv": 0.6481012658227848,
+    "selectivity_score": 0.6481012658227848,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_up_proj_neuron_9321",
+    "overall_importance": 0.001678466796875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001678466796875,
+    "specificity_cv": 0.7884421547765708,
+    "selectivity_score": 0.7884421547765708,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_12_mlp_down_proj_neuron_471",
+    "overall_importance": 0.00164794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00164794921875,
+    "specificity_cv": 0.6442953020134228,
+    "selectivity_score": 0.6442953020134228,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_3860",
+    "overall_importance": 0.00154876708984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00154876708984375,
+    "specificity_cv": 0.6509018036072144,
+    "selectivity_score": 0.6509018036072144,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_up_proj_neuron_2990",
+    "overall_importance": 0.00153350830078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00153350830078125,
+    "specificity_cv": 0.8120186845095316,
+    "selectivity_score": 0.8120186845095316,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_12_mlp_down_proj_neuron_458",
+    "overall_importance": 0.00152587890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00152587890625,
+    "specificity_cv": 0.6423123243677238,
+    "selectivity_score": 0.6423123243677238,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_up_proj_neuron_12839",
+    "overall_importance": 0.00150299072265625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00150299072265625,
+    "specificity_cv": 0.6599664991624791,
+    "selectivity_score": 0.6599664991624791,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_up_proj_neuron_12130",
+    "overall_importance": 0.00146484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00146484375,
+    "specificity_cv": 0.6523678063283075,
+    "selectivity_score": 0.6523678063283075,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_11_mlp_down_proj_neuron_3396",
+    "overall_importance": 0.00146484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00146484375,
+    "specificity_cv": 0.6675358539765319,
+    "selectivity_score": 0.6675358539765319,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_844",
+    "overall_importance": 0.00144195556640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00144195556640625,
+    "specificity_cv": 0.6737967914438503,
+    "selectivity_score": 0.6737967914438503,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_13_mlp_down_proj_neuron_471",
+    "overall_importance": 0.0014190673828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0014190673828125,
+    "specificity_cv": 0.6819431714023831,
+    "selectivity_score": 0.6819431714023831,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_1805",
+    "overall_importance": 0.00138092041015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00138092041015625,
+    "specificity_cv": 0.6373239436619719,
+    "selectivity_score": 0.6373239436619719,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_up_proj_neuron_569",
+    "overall_importance": 0.00138092041015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00138092041015625,
+    "specificity_cv": 0.7408544384753134,
+    "selectivity_score": 0.7408544384753134,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_844",
+    "overall_importance": 0.001373291015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001373291015625,
+    "specificity_cv": 0.6486486486486487,
+    "selectivity_score": 0.6486486486486487,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_10_mlp_down_proj_neuron_3396",
+    "overall_importance": 0.00136566162109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00136566162109375,
+    "specificity_cv": 0.6404293381037567,
+    "selectivity_score": 0.6404293381037567,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_627",
+    "overall_importance": 0.0013427734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0013427734375,
+    "specificity_cv": 0.6359530261969286,
+    "selectivity_score": 0.6359530261969286,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1836",
+    "overall_importance": 0.0013275146484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0013275146484375,
+    "specificity_cv": 0.7193798449612403,
+    "selectivity_score": 0.7193798449612403,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_30_mlp_up_proj_neuron_3695",
+    "overall_importance": 0.001312255859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001312255859375,
+    "specificity_cv": 0.7013251783893986,
+    "selectivity_score": 0.7013251783893986,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_14_mlp_down_proj_neuron_471",
+    "overall_importance": 0.00130462646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00130462646484375,
+    "specificity_cv": 0.6983154670750383,
+    "selectivity_score": 0.6983154670750383,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_up_proj_neuron_1529",
+    "overall_importance": 0.00130462646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00130462646484375,
+    "specificity_cv": 0.6628709872804361,
+    "selectivity_score": 0.6628709872804361,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_482",
+    "overall_importance": 0.0012969970703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012969970703125,
+    "specificity_cv": 0.6364061768834816,
+    "selectivity_score": 0.6364061768834816,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_29_mlp_up_proj_neuron_3783",
+    "overall_importance": 0.00127410888671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00127410888671875,
+    "specificity_cv": 0.75672613990371,
+    "selectivity_score": 0.75672613990371,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2964",
+    "overall_importance": 0.00127410888671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00127410888671875,
+    "specificity_cv": 0.6653386454183267,
+    "selectivity_score": 0.6653386454183267,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_471",
+    "overall_importance": 0.00127410888671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00127410888671875,
+    "specificity_cv": 0.6455665619714906,
+    "selectivity_score": 0.6455665619714906,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_1119",
+    "overall_importance": 0.0012664794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012664794921875,
+    "specificity_cv": 0.6649974962443665,
+    "selectivity_score": 0.6649974962443665,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_27_mlp_gate_proj_neuron_12428",
+    "overall_importance": 0.0012664794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012664794921875,
+    "specificity_cv": 0.7304730473047305,
+    "selectivity_score": 0.7304730473047305,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_2491",
+    "overall_importance": 0.00125885009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00125885009765625,
+    "specificity_cv": 0.6407766990291263,
+    "selectivity_score": 0.6407766990291263,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.001251220703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001251220703125,
+    "specificity_cv": 0.7360448807854137,
+    "selectivity_score": 0.7360448807854137,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_1836",
+    "overall_importance": 0.0012359619140625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012359619140625,
+    "specificity_cv": 0.638423645320197,
+    "selectivity_score": 0.638423645320197,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_4_mlp_up_proj_neuron_5247",
+    "overall_importance": 0.0012359619140625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012359619140625,
+    "specificity_cv": 0.6716766001554807,
+    "selectivity_score": 0.6716766001554807,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_29_mlp_down_proj_neuron_1421",
+    "overall_importance": 0.0012359619140625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012359619140625,
+    "specificity_cv": 0.6419019316493314,
+    "selectivity_score": 0.6419019316493314,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_2105",
+    "overall_importance": 0.0012359619140625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0012359619140625,
+    "specificity_cv": 0.6578680203045685,
+    "selectivity_score": 0.6578680203045685,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_14_mlp_down_proj_neuron_394",
+    "overall_importance": 0.00122833251953125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00122833251953125,
+    "specificity_cv": 0.6376237623762376,
+    "selectivity_score": 0.6376237623762376,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_6_mlp_up_proj_neuron_462",
+    "overall_importance": 0.00121307373046875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00121307373046875,
+    "specificity_cv": 0.6563467492260062,
+    "selectivity_score": 0.6563467492260062,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_3686",
+    "overall_importance": 0.0011749267578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011749267578125,
+    "specificity_cv": 0.646379853095488,
+    "selectivity_score": 0.646379853095488,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_3_mlp_up_proj_neuron_9142",
+    "overall_importance": 0.0011749267578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011749267578125,
+    "specificity_cv": 0.8563732730906247,
+    "selectivity_score": 0.8563732730906247,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_627",
+    "overall_importance": 0.00116729736328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00116729736328125,
+    "specificity_cv": 0.6442105263157895,
+    "selectivity_score": 0.6442105263157895,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3686",
+    "overall_importance": 0.00115203857421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00115203857421875,
+    "specificity_cv": 0.6533261222282315,
+    "selectivity_score": 0.6533261222282315,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.0011444091796875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011444091796875,
+    "specificity_cv": 0.6870884626395648,
+    "selectivity_score": 0.6870884626395648,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_up_proj_neuron_12348",
+    "overall_importance": 0.0011444091796875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011444091796875,
+    "specificity_cv": 1.3114739069070347,
+    "selectivity_score": 1.3114739069070347,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_3475",
+    "overall_importance": 0.00113677978515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00113677978515625,
+    "specificity_cv": 0.6504774897680764,
+    "selectivity_score": 0.6504774897680764,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3903",
+    "overall_importance": 0.00113677978515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00113677978515625,
+    "specificity_cv": 0.645895421295042,
+    "selectivity_score": 0.645895421295042,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_2353",
+    "overall_importance": 0.00113677978515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00113677978515625,
+    "specificity_cv": 0.654945054945055,
+    "selectivity_score": 0.654945054945055,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_11_mlp_down_proj_neuron_1333",
+    "overall_importance": 0.001129150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001129150390625,
+    "specificity_cv": 0.6501922020867655,
+    "selectivity_score": 0.6501922020867655,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1761",
+    "overall_importance": 0.001129150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001129150390625,
+    "specificity_cv": 0.6527012127894156,
+    "selectivity_score": 0.6527012127894156,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_28_mlp_up_proj_neuron_1136",
+    "overall_importance": 0.00112152099609375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00112152099609375,
+    "specificity_cv": 0.7917858946305336,
+    "selectivity_score": 0.7917858946305336,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_up_proj_neuron_5115",
+    "overall_importance": 0.00112152099609375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00112152099609375,
+    "specificity_cv": 4.6459066801531135,
+    "selectivity_score": 4.6459066801531135,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_up_proj_neuron_11158",
+    "overall_importance": 0.0011138916015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011138916015625,
+    "specificity_cv": 0.8950191570881226,
+    "selectivity_score": 0.8950191570881226,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_13_mlp_down_proj_neuron_759",
+    "overall_importance": 0.0011138916015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011138916015625,
+    "specificity_cv": 0.6548920661620409,
+    "selectivity_score": 0.6548920661620409,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.0011138916015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011138916015625,
+    "specificity_cv": 0.7511254019292605,
+    "selectivity_score": 0.7511254019292605,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3903",
+    "overall_importance": 0.0011138916015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0011138916015625,
+    "specificity_cv": 0.6634478841238285,
+    "selectivity_score": 0.6634478841238285,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_13_mlp_down_proj_neuron_923",
+    "overall_importance": 0.00110626220703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00110626220703125,
+    "specificity_cv": 0.6570376663834607,
+    "selectivity_score": 0.6570376663834607,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_up_proj_neuron_7550",
+    "overall_importance": 0.0010986328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010986328125,
+    "specificity_cv": 0.7411935016889175,
+    "selectivity_score": 0.7411935016889175,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_2597",
+    "overall_importance": 0.0010986328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010986328125,
+    "specificity_cv": 0.6414253897550112,
+    "selectivity_score": 0.6414253897550112,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_2520",
+    "overall_importance": 0.00109100341796875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00109100341796875,
+    "specificity_cv": 0.68853445681613,
+    "selectivity_score": 0.68853445681613,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_309",
+    "overall_importance": 0.0010833740234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010833740234375,
+    "specificity_cv": 0.6502575844304522,
+    "selectivity_score": 0.6502575844304522,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_3686",
+    "overall_importance": 0.0010833740234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010833740234375,
+    "specificity_cv": 0.6790197250448297,
+    "selectivity_score": 0.6790197250448297,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_up_proj_neuron_10511",
+    "overall_importance": 0.0010833740234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010833740234375,
+    "specificity_cv": 0.9119912041809624,
+    "selectivity_score": 0.9119912041809624,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_2855",
+    "overall_importance": 0.0010833740234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010833740234375,
+    "specificity_cv": 0.6474779139355942,
+    "selectivity_score": 0.6474779139355942,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_902",
+    "overall_importance": 0.0010833740234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010833740234375,
+    "specificity_cv": 0.6418079096045197,
+    "selectivity_score": 0.6418079096045197,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_27_mlp_up_proj_neuron_8191",
+    "overall_importance": 0.00107574462890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00107574462890625,
+    "specificity_cv": 0.657917760279965,
+    "selectivity_score": 0.657917760279965,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_3939",
+    "overall_importance": 0.00107574462890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00107574462890625,
+    "specificity_cv": 0.8142934488359502,
+    "selectivity_score": 0.8142934488359502,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_3656",
+    "overall_importance": 0.00107574462890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00107574462890625,
+    "specificity_cv": 0.6577259475218659,
+    "selectivity_score": 0.6577259475218659,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1836",
+    "overall_importance": 0.00106048583984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00106048583984375,
+    "specificity_cv": 0.7098627513565273,
+    "selectivity_score": 0.7098627513565273,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_2396",
+    "overall_importance": 0.00106048583984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00106048583984375,
+    "specificity_cv": 0.6446376811594203,
+    "selectivity_score": 0.6446376811594203,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_2855",
+    "overall_importance": 0.0010528564453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010528564453125,
+    "specificity_cv": 0.6444833625218914,
+    "selectivity_score": 0.6444833625218914,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.0010528564453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010528564453125,
+    "specificity_cv": 0.6872082166199813,
+    "selectivity_score": 0.6872082166199813,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_3778",
+    "overall_importance": 0.00104522705078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00104522705078125,
+    "specificity_cv": 0.6398131932282545,
+    "selectivity_score": 0.6398131932282545,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_29_mlp_up_proj_neuron_283",
+    "overall_importance": 0.00104522705078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00104522705078125,
+    "specificity_cv": 0.6786377708978328,
+    "selectivity_score": 0.6786377708978328,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_3_mlp_gate_proj_neuron_2484",
+    "overall_importance": 0.00104522705078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00104522705078125,
+    "specificity_cv": 0.7696629213483146,
+    "selectivity_score": 0.7696629213483146,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_471",
+    "overall_importance": 0.00103759765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00103759765625,
+    "specificity_cv": 0.6476190476190476,
+    "selectivity_score": 0.6476190476190476,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_2520",
+    "overall_importance": 0.00103759765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00103759765625,
+    "specificity_cv": 0.6947637292464879,
+    "selectivity_score": 0.6947637292464879,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_621",
+    "overall_importance": 0.00103759765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00103759765625,
+    "specificity_cv": 0.6524737631184407,
+    "selectivity_score": 0.6524737631184407,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_459",
+    "overall_importance": 0.00103759765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00103759765625,
+    "specificity_cv": 0.6585956416464891,
+    "selectivity_score": 0.6585956416464891,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_2964",
+    "overall_importance": 0.00102996826171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00102996826171875,
+    "specificity_cv": 0.648064806480648,
+    "selectivity_score": 0.648064806480648,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3399",
+    "overall_importance": 0.00102996826171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00102996826171875,
+    "specificity_cv": 0.6779661016949152,
+    "selectivity_score": 0.6779661016949152,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_3686",
+    "overall_importance": 0.00102996826171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00102996826171875,
+    "specificity_cv": 0.7006162828413882,
+    "selectivity_score": 0.7006162828413882,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_14_mlp_down_proj_neuron_2353",
+    "overall_importance": 0.00102996826171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00102996826171875,
+    "specificity_cv": 0.6420927467300832,
+    "selectivity_score": 0.6420927467300832,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_down_proj_neuron_3272",
+    "overall_importance": 0.00102996826171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00102996826171875,
+    "specificity_cv": 0.6472879832184597,
+    "selectivity_score": 0.6472879832184597,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_3275",
+    "overall_importance": 0.0010223388671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010223388671875,
+    "specificity_cv": 0.6520681265206812,
+    "selectivity_score": 0.6520681265206812,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_1845",
+    "overall_importance": 0.0010223388671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010223388671875,
+    "specificity_cv": 0.6629560915275201,
+    "selectivity_score": 0.6629560915275201,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_30_mlp_up_proj_neuron_1845",
+    "overall_importance": 0.0010223388671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010223388671875,
+    "specificity_cv": 0.7344981157930798,
+    "selectivity_score": 0.7344981157930798,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_up_proj_neuron_13089",
+    "overall_importance": 0.0010223388671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010223388671875,
+    "specificity_cv": 0.6794485818412296,
+    "selectivity_score": 0.6794485818412296,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3275",
+    "overall_importance": 0.0010223388671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0010223388671875,
+    "specificity_cv": 0.6390461997019374,
+    "selectivity_score": 0.6390461997019374,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_up_proj_neuron_4425",
+    "overall_importance": 0.00101470947265625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00101470947265625,
+    "specificity_cv": 0.827130502380721,
+    "selectivity_score": 0.827130502380721,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_14_mlp_down_proj_neuron_3167",
+    "overall_importance": 0.00101470947265625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00101470947265625,
+    "specificity_cv": 0.6446531354135111,
+    "selectivity_score": 0.6446531354135111,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3164",
+    "overall_importance": 0.001007080078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001007080078125,
+    "specificity_cv": 0.700497512437811,
+    "selectivity_score": 0.700497512437811,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3024",
+    "overall_importance": 0.001007080078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001007080078125,
+    "specificity_cv": 0.6700507614213198,
+    "selectivity_score": 0.6700507614213198,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_3417",
+    "overall_importance": 0.001007080078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001007080078125,
+    "specificity_cv": 0.6775745909528392,
+    "selectivity_score": 0.6775745909528392,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.001007080078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.001007080078125,
+    "specificity_cv": 0.6764894298526586,
+    "selectivity_score": 0.6764894298526586,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_3230",
+    "overall_importance": 0.00099945068359375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00099945068359375,
+    "specificity_cv": 0.6963455149501662,
+    "selectivity_score": 0.6963455149501662,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_928",
+    "overall_importance": 0.00099945068359375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00099945068359375,
+    "specificity_cv": 0.6796368352788587,
+    "selectivity_score": 0.6796368352788587,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_156",
+    "overall_importance": 0.00099945068359375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00099945068359375,
+    "specificity_cv": 0.6595342983008181,
+    "selectivity_score": 0.6595342983008181,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_3842",
+    "overall_importance": 0.00099945068359375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00099945068359375,
+    "specificity_cv": 0.6503257834315854,
+    "selectivity_score": 0.6503257834315854,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_326",
+    "overall_importance": 0.00099945068359375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00099945068359375,
+    "specificity_cv": 0.670076726342711,
+    "selectivity_score": 0.670076726342711,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1068",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.6711842529848339,
+    "selectivity_score": 0.6711842529848339,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_449",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.6781871535702642,
+    "selectivity_score": 0.6781871535702642,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_15_mlp_up_proj_neuron_5138",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.8980032379924446,
+    "selectivity_score": 0.8980032379924446,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_2022",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.644361833952912,
+    "selectivity_score": 0.644361833952912,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_1481",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.6449612403100775,
+    "selectivity_score": 0.6449612403100775,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3562",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.6514249921703726,
+    "selectivity_score": 0.6514249921703726,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1514",
+    "overall_importance": 0.0009918212890625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009918212890625,
+    "specificity_cv": 0.6582278481012658,
+    "selectivity_score": 0.6582278481012658,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_4_mlp_up_proj_neuron_9607",
+    "overall_importance": 0.00098419189453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00098419189453125,
+    "specificity_cv": 0.8665896924530282,
+    "selectivity_score": 0.8665896924530282,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_627",
+    "overall_importance": 0.00098419189453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00098419189453125,
+    "specificity_cv": 0.6494650723725613,
+    "selectivity_score": 0.6494650723725613,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_6_mlp_gate_proj_neuron_7233",
+    "overall_importance": 0.00098419189453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00098419189453125,
+    "specificity_cv": 0.7161693268563497,
+    "selectivity_score": 0.7161693268563497,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_14_mlp_down_proj_neuron_871",
+    "overall_importance": 0.0009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009765625,
+    "specificity_cv": 0.642812303829253,
+    "selectivity_score": 0.642812303829253,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_up_proj_neuron_1881",
+    "overall_importance": 0.0009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009765625,
+    "specificity_cv": 1.7560525764551573,
+    "selectivity_score": 1.7560525764551573,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_2041",
+    "overall_importance": 0.0009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009765625,
+    "specificity_cv": 0.6768010575016523,
+    "selectivity_score": 0.6768010575016523,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_1836",
+    "overall_importance": 0.0009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009765625,
+    "specificity_cv": 0.7079156584860007,
+    "selectivity_score": 0.7079156584860007,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1415",
+    "overall_importance": 0.000972747802734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000972747802734375,
+    "specificity_cv": 0.6825025092004015,
+    "selectivity_score": 0.6825025092004015,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_7_mlp_gate_proj_neuron_11708",
+    "overall_importance": 0.000972747802734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000972747802734375,
+    "specificity_cv": 0.9006614177377955,
+    "selectivity_score": 0.9006614177377955,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2022",
+    "overall_importance": 0.000972747802734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000972747802734375,
+    "specificity_cv": 0.6465927099841522,
+    "selectivity_score": 0.6465927099841522,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3167",
+    "overall_importance": 0.000972747802734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000972747802734375,
+    "specificity_cv": 0.6449573190009484,
+    "selectivity_score": 0.6449573190009484,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1346",
+    "overall_importance": 0.00096893310546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00096893310546875,
+    "specificity_cv": 0.701415257162582,
+    "selectivity_score": 0.701415257162582,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1951",
+    "overall_importance": 0.0009613037109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009613037109375,
+    "specificity_cv": 0.6467757459095284,
+    "selectivity_score": 0.6467757459095284,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_449",
+    "overall_importance": 0.000957489013671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000957489013671875,
+    "specificity_cv": 0.6462825877051819,
+    "selectivity_score": 0.6462825877051819,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1693",
+    "overall_importance": 0.00095367431640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00095367431640625,
+    "specificity_cv": 0.6854009595613434,
+    "selectivity_score": 0.6854009595613434,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1693",
+    "overall_importance": 0.00095367431640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00095367431640625,
+    "specificity_cv": 0.718132854578097,
+    "selectivity_score": 0.718132854578097,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_up_proj_neuron_1465",
+    "overall_importance": 0.000949859619140625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000949859619140625,
+    "specificity_cv": 0.8955827807125998,
+    "selectivity_score": 0.8955827807125998,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_13_mlp_down_proj_neuron_3730",
+    "overall_importance": 0.000946044921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000946044921875,
+    "specificity_cv": 0.6381473142489547,
+    "selectivity_score": 0.6381473142489547,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3164",
+    "overall_importance": 0.000946044921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000946044921875,
+    "specificity_cv": 0.6653252850435949,
+    "selectivity_score": 0.6653252850435949,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_2323",
+    "overall_importance": 0.000942230224609375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000942230224609375,
+    "specificity_cv": 0.7065975326300733,
+    "selectivity_score": 0.7065975326300733,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_2098",
+    "overall_importance": 0.000942230224609375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000942230224609375,
+    "specificity_cv": 0.6378308586184636,
+    "selectivity_score": 0.6378308586184636,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_3842",
+    "overall_importance": 0.00093841552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00093841552734375,
+    "specificity_cv": 0.6397919375812744,
+    "selectivity_score": 0.6397919375812744,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1015",
+    "overall_importance": 0.00093841552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00093841552734375,
+    "specificity_cv": 0.6402081977878985,
+    "selectivity_score": 0.6402081977878985,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_243",
+    "overall_importance": 0.00093841552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00093841552734375,
+    "specificity_cv": 0.6615126050420168,
+    "selectivity_score": 0.6615126050420168,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_up_proj_neuron_2323",
+    "overall_importance": 0.00093841552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00093841552734375,
+    "specificity_cv": 1.813821378931675,
+    "selectivity_score": 1.813821378931675,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1415",
+    "overall_importance": 0.00093841552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00093841552734375,
+    "specificity_cv": 0.6988636363636364,
+    "selectivity_score": 0.6988636363636364,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_4_mlp_up_proj_neuron_5354",
+    "overall_importance": 0.00093841552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00093841552734375,
+    "specificity_cv": 0.8447258289516042,
+    "selectivity_score": 0.8447258289516042,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_3230",
+    "overall_importance": 0.000934600830078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000934600830078125,
+    "specificity_cv": 0.6716929403701165,
+    "selectivity_score": 0.6716929403701165,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_3486",
+    "overall_importance": 0.000934600830078125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000934600830078125,
+    "specificity_cv": 0.6682577565632458,
+    "selectivity_score": 0.6682577565632458,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_up_proj_neuron_13876",
+    "overall_importance": 0.0009307861328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009307861328125,
+    "specificity_cv": 0.7261904761904762,
+    "selectivity_score": 0.7261904761904762,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_13910",
+    "overall_importance": 0.0009307861328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009307861328125,
+    "specificity_cv": 0.812486992715921,
+    "selectivity_score": 0.812486992715921,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_27_mlp_up_proj_neuron_10376",
+    "overall_importance": 0.000926971435546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000926971435546875,
+    "specificity_cv": 0.6523489932885906,
+    "selectivity_score": 0.6523489932885906,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_1024",
+    "overall_importance": 0.000919342041015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000919342041015625,
+    "specificity_cv": 0.6450317832050854,
+    "selectivity_score": 0.6450317832050854,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_2369",
+    "overall_importance": 0.000919342041015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000919342041015625,
+    "specificity_cv": 0.6678212677519917,
+    "selectivity_score": 0.6678212677519917,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_gate_proj_neuron_12434",
+    "overall_importance": 0.000919342041015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000919342041015625,
+    "specificity_cv": 0.8867425549039899,
+    "selectivity_score": 0.8867425549039899,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_2889",
+    "overall_importance": 0.00091552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00091552734375,
+    "specificity_cv": 0.659114315139032,
+    "selectivity_score": 0.659114315139032,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_2353",
+    "overall_importance": 0.00091552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00091552734375,
+    "specificity_cv": 0.6526172671651937,
+    "selectivity_score": 0.6526172671651937,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_218",
+    "overall_importance": 0.00091552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00091552734375,
+    "specificity_cv": 0.6523955147808359,
+    "selectivity_score": 0.6523955147808359,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1910",
+    "overall_importance": 0.00091552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00091552734375,
+    "specificity_cv": 0.6475548060708263,
+    "selectivity_score": 0.6475548060708263,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_5_mlp_up_proj_neuron_1959",
+    "overall_importance": 0.00091552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00091552734375,
+    "specificity_cv": 0.7169529499626587,
+    "selectivity_score": 0.7169529499626587,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2742",
+    "overall_importance": 0.00091552734375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00091552734375,
+    "specificity_cv": 0.638085742771685,
+    "selectivity_score": 0.638085742771685,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_up_proj_neuron_6940",
+    "overall_importance": 0.000911712646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000911712646484375,
+    "specificity_cv": 0.7161048689138577,
+    "selectivity_score": 0.7161048689138577,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_gate_proj_neuron_8600",
+    "overall_importance": 0.000911712646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000911712646484375,
+    "specificity_cv": 0.8016771488469602,
+    "selectivity_score": 0.8016771488469602,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3355",
+    "overall_importance": 0.000911712646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000911712646484375,
+    "specificity_cv": 0.643121426168853,
+    "selectivity_score": 0.643121426168853,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_3879",
+    "overall_importance": 0.000911712646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000911712646484375,
+    "specificity_cv": 0.6514480408858603,
+    "selectivity_score": 0.6514480408858603,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1481",
+    "overall_importance": 0.000911712646484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000911712646484375,
+    "specificity_cv": 0.6547945205479452,
+    "selectivity_score": 0.6547945205479452,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.00090789794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00090789794921875,
+    "specificity_cv": 0.7029721247923205,
+    "selectivity_score": 0.7029721247923205,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1951",
+    "overall_importance": 0.00090789794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00090789794921875,
+    "specificity_cv": 0.7036215816703622,
+    "selectivity_score": 0.7036215816703622,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1622",
+    "overall_importance": 0.00090789794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00090789794921875,
+    "specificity_cv": 0.6436781609195402,
+    "selectivity_score": 0.6436781609195402,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_up_proj_neuron_13899",
+    "overall_importance": 0.00090789794921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00090789794921875,
+    "specificity_cv": 1.58336522198957,
+    "selectivity_score": 1.58336522198957,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3403",
+    "overall_importance": 0.0009002685546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009002685546875,
+    "specificity_cv": 0.689806357325539,
+    "selectivity_score": 0.689806357325539,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_gate_proj_neuron_12781",
+    "overall_importance": 0.0009002685546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009002685546875,
+    "specificity_cv": 0.827797873506522,
+    "selectivity_score": 0.827797873506522,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_2364",
+    "overall_importance": 0.0009002685546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009002685546875,
+    "specificity_cv": 0.6843059079376586,
+    "selectivity_score": 0.6843059079376586,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_858",
+    "overall_importance": 0.0009002685546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009002685546875,
+    "specificity_cv": 0.657152801949182,
+    "selectivity_score": 0.657152801949182,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3422",
+    "overall_importance": 0.0009002685546875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0009002685546875,
+    "specificity_cv": 0.6380533964177086,
+    "selectivity_score": 0.6380533964177086,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_up_proj_neuron_8590",
+    "overall_importance": 0.000896453857421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000896453857421875,
+    "specificity_cv": 0.8760484622553588,
+    "selectivity_score": 0.8760484622553588,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_1836",
+    "overall_importance": 0.000896453857421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000896453857421875,
+    "specificity_cv": 0.6919396393080604,
+    "selectivity_score": 0.6919396393080604,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_2041",
+    "overall_importance": 0.00089263916015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00089263916015625,
+    "specificity_cv": 0.670487106017192,
+    "selectivity_score": 0.670487106017192,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_159",
+    "overall_importance": 0.00089263916015625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00089263916015625,
+    "specificity_cv": 0.6365181910914655,
+    "selectivity_score": 0.6365181910914655,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_gate_proj_neuron_5932",
+    "overall_importance": 0.000885009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000885009765625,
+    "specificity_cv": 0.679231473010064,
+    "selectivity_score": 0.679231473010064,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_24_mlp_down_proj_neuron_3879",
+    "overall_importance": 0.000885009765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000885009765625,
+    "specificity_cv": 0.7054351957430635,
+    "selectivity_score": 0.7054351957430635,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_810",
+    "overall_importance": 0.000881195068359375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000881195068359375,
+    "specificity_cv": 0.637901277183293,
+    "selectivity_score": 0.637901277183293,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_3486",
+    "overall_importance": 0.00087738037109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00087738037109375,
+    "specificity_cv": 0.6927710843373494,
+    "selectivity_score": 0.6927710843373494,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_858",
+    "overall_importance": 0.000873565673828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000873565673828125,
+    "specificity_cv": 0.6722935779816513,
+    "selectivity_score": 0.6722935779816513,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_24_mlp_down_proj_neuron_1371",
+    "overall_importance": 0.000873565673828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000873565673828125,
+    "specificity_cv": 0.6428070175438596,
+    "selectivity_score": 0.6428070175438596,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_3486",
+    "overall_importance": 0.000873565673828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000873565673828125,
+    "specificity_cv": 0.7423014586709886,
+    "selectivity_score": 0.7423014586709886,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_28_mlp_down_proj_neuron_2005",
+    "overall_importance": 0.000873565673828125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000873565673828125,
+    "specificity_cv": 0.6874296435272045,
+    "selectivity_score": 0.6874296435272045,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_388",
+    "overall_importance": 0.0008697509765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008697509765625,
+    "specificity_cv": 0.6532951289398281,
+    "selectivity_score": 0.6532951289398281,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_3552",
+    "overall_importance": 0.0008697509765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008697509765625,
+    "specificity_cv": 0.6375393219154142,
+    "selectivity_score": 0.6375393219154142,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_up_proj_neuron_9928",
+    "overall_importance": 0.0008697509765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008697509765625,
+    "specificity_cv": 0.7296,
+    "selectivity_score": 0.7296,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_218",
+    "overall_importance": 0.0008697509765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008697509765625,
+    "specificity_cv": 0.678319077724061,
+    "selectivity_score": 0.678319077724061,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_273",
+    "overall_importance": 0.0008697509765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008697509765625,
+    "specificity_cv": 0.6395511921458625,
+    "selectivity_score": 0.6395511921458625,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_3417",
+    "overall_importance": 0.000865936279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000865936279296875,
+    "specificity_cv": 0.6652014652014652,
+    "selectivity_score": 0.6652014652014652,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_273",
+    "overall_importance": 0.000865936279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000865936279296875,
+    "specificity_cv": 0.652064631956912,
+    "selectivity_score": 0.652064631956912,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2492",
+    "overall_importance": 0.000865936279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000865936279296875,
+    "specificity_cv": 0.6419229409685401,
+    "selectivity_score": 0.6419229409685401,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_1836",
+    "overall_importance": 0.000865936279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000865936279296875,
+    "specificity_cv": 0.709375,
+    "selectivity_score": 0.709375,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_2365",
+    "overall_importance": 0.000865936279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000865936279296875,
+    "specificity_cv": 0.636077057793345,
+    "selectivity_score": 0.636077057793345,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_621",
+    "overall_importance": 0.00086212158203125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00086212158203125,
+    "specificity_cv": 0.6480286738351254,
+    "selectivity_score": 0.6480286738351254,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_24_mlp_down_proj_neuron_449",
+    "overall_importance": 0.00086212158203125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00086212158203125,
+    "specificity_cv": 0.6726190476190477,
+    "selectivity_score": 0.6726190476190477,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_8205",
+    "overall_importance": 0.00086212158203125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00086212158203125,
+    "specificity_cv": 0.7481895303124353,
+    "selectivity_score": 0.7481895303124353,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_gate_proj_neuron_5115",
+    "overall_importance": 0.000858306884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000858306884765625,
+    "specificity_cv": 1.0518613844188716,
+    "selectivity_score": 1.0518613844188716,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_2170",
+    "overall_importance": 0.000858306884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000858306884765625,
+    "specificity_cv": 0.6662965019433648,
+    "selectivity_score": 0.6662965019433648,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_26_mlp_down_proj_neuron_3805",
+    "overall_importance": 0.0008544921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008544921875,
+    "specificity_cv": 0.6408010012515645,
+    "selectivity_score": 0.6408010012515645,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_26_mlp_down_proj_neuron_449",
+    "overall_importance": 0.0008544921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008544921875,
+    "specificity_cv": 0.6689063083240014,
+    "selectivity_score": 0.6689063083240014,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_up_proj_neuron_1814",
+    "overall_importance": 0.000850677490234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000850677490234375,
+    "specificity_cv": 0.6435786435786436,
+    "selectivity_score": 0.6435786435786436,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3214",
+    "overall_importance": 0.000850677490234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000850677490234375,
+    "specificity_cv": 0.6541987532086542,
+    "selectivity_score": 0.6541987532086542,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1119",
+    "overall_importance": 0.000850677490234375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000850677490234375,
+    "specificity_cv": 0.6814362108479756,
+    "selectivity_score": 0.6814362108479756,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_26_mlp_up_proj_neuron_12058",
+    "overall_importance": 0.00084686279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00084686279296875,
+    "specificity_cv": 0.8717634065529513,
+    "selectivity_score": 0.8717634065529513,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_1925",
+    "overall_importance": 0.00084686279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00084686279296875,
+    "specificity_cv": 0.6367873789888849,
+    "selectivity_score": 0.6367873789888849,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_gate_proj_neuron_14192",
+    "overall_importance": 0.00084686279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00084686279296875,
+    "specificity_cv": 0.676056338028169,
+    "selectivity_score": 0.676056338028169,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_2022",
+    "overall_importance": 0.00084686279296875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00084686279296875,
+    "specificity_cv": 0.6510263929618768,
+    "selectivity_score": 0.6510263929618768,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1825",
+    "overall_importance": 0.000843048095703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000843048095703125,
+    "specificity_cv": 0.6659133709981168,
+    "selectivity_score": 0.6659133709981168,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_156",
+    "overall_importance": 0.0008392333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008392333984375,
+    "specificity_cv": 0.6540319583797845,
+    "selectivity_score": 0.6540319583797845,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_gate_proj_neuron_8590",
+    "overall_importance": 0.0008392333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008392333984375,
+    "specificity_cv": 0.8426092160383004,
+    "selectivity_score": 0.8426092160383004,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_420",
+    "overall_importance": 0.0008392333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008392333984375,
+    "specificity_cv": 0.6506469500924215,
+    "selectivity_score": 0.6506469500924215,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_3_mlp_gate_proj_neuron_263",
+    "overall_importance": 0.000835418701171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000835418701171875,
+    "specificity_cv": 0.6593902898005269,
+    "selectivity_score": 0.6593902898005269,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_2492",
+    "overall_importance": 0.000835418701171875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000835418701171875,
+    "specificity_cv": 0.6871935673661502,
+    "selectivity_score": 0.6871935673661502,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_2520",
+    "overall_importance": 0.000827789306640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000827789306640625,
+    "specificity_cv": 0.6723470178156468,
+    "selectivity_score": 0.6723470178156468,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_514",
+    "overall_importance": 0.000827789306640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000827789306640625,
+    "specificity_cv": 0.6410635155096012,
+    "selectivity_score": 0.6410635155096012,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_2838",
+    "overall_importance": 0.000827789306640625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000827789306640625,
+    "specificity_cv": 0.6511627906976745,
+    "selectivity_score": 0.6511627906976745,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_gate_proj_neuron_8885",
+    "overall_importance": 0.000823974609375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000823974609375,
+    "specificity_cv": 0.6382271468144044,
+    "selectivity_score": 0.6382271468144044,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2135",
+    "overall_importance": 0.000820159912109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000820159912109375,
+    "specificity_cv": 0.6700428515777171,
+    "selectivity_score": 0.6700428515777171,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_24_mlp_down_proj_neuron_656",
+    "overall_importance": 0.000820159912109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000820159912109375,
+    "specificity_cv": 0.6828106391425168,
+    "selectivity_score": 0.6828106391425168,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_3887",
+    "overall_importance": 0.000820159912109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000820159912109375,
+    "specificity_cv": 0.658751436231329,
+    "selectivity_score": 0.658751436231329,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_37",
+    "overall_importance": 0.000820159912109375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000820159912109375,
+    "specificity_cv": 0.6710885680842762,
+    "selectivity_score": 0.6710885680842762,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_5_mlp_up_proj_neuron_3087",
+    "overall_importance": 0.00081634521484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00081634521484375,
+    "specificity_cv": 0.6404788627010849,
+    "selectivity_score": 0.6404788627010849,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_28_mlp_up_proj_neuron_1016",
+    "overall_importance": 0.00081634521484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00081634521484375,
+    "specificity_cv": 2.115206874550947,
+    "selectivity_score": 2.115206874550947,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_498",
+    "overall_importance": 0.00081634521484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00081634521484375,
+    "specificity_cv": 0.6448210922787194,
+    "selectivity_score": 0.6448210922787194,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_156",
+    "overall_importance": 0.00081634521484375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00081634521484375,
+    "specificity_cv": 0.6369047619047619,
+    "selectivity_score": 0.6369047619047619,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_3167",
+    "overall_importance": 0.000812530517578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000812530517578125,
+    "specificity_cv": 0.6476624857468644,
+    "selectivity_score": 0.6476624857468644,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_up_proj_neuron_3613",
+    "overall_importance": 0.000812530517578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000812530517578125,
+    "specificity_cv": 0.8289953782534664,
+    "selectivity_score": 0.8289953782534664,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_gate_proj_neuron_7550",
+    "overall_importance": 0.000812530517578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000812530517578125,
+    "specificity_cv": 0.6861284477551842,
+    "selectivity_score": 0.6861284477551842,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_2365",
+    "overall_importance": 0.000812530517578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000812530517578125,
+    "specificity_cv": 0.6427763108261033,
+    "selectivity_score": 0.6427763108261033,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_3962",
+    "overall_importance": 0.000812530517578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000812530517578125,
+    "specificity_cv": 0.6452101476713367,
+    "selectivity_score": 0.6452101476713367,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1910",
+    "overall_importance": 0.0008087158203125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008087158203125,
+    "specificity_cv": 0.6378337720947724,
+    "selectivity_score": 0.6378337720947724,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1828",
+    "overall_importance": 0.0008087158203125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0008087158203125,
+    "specificity_cv": 0.6835953244659412,
+    "selectivity_score": 0.6835953244659412,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_499",
+    "overall_importance": 0.000804901123046875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000804901123046875,
+    "specificity_cv": 0.6467432950191571,
+    "selectivity_score": 0.6467432950191571,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1481",
+    "overall_importance": 0.000804901123046875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000804901123046875,
+    "specificity_cv": 0.7079052212203817,
+    "selectivity_score": 0.7079052212203817,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_26_mlp_down_proj_neuron_2227",
+    "overall_importance": 0.000804901123046875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000804901123046875,
+    "specificity_cv": 0.6420692278432865,
+    "selectivity_score": 0.6420692278432865,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2525",
+    "overall_importance": 0.00080108642578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00080108642578125,
+    "specificity_cv": 0.660377358490566,
+    "selectivity_score": 0.660377358490566,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_4_mlp_gate_proj_neuron_2847",
+    "overall_importance": 0.00080108642578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00080108642578125,
+    "specificity_cv": 0.6407322654462243,
+    "selectivity_score": 0.6407322654462243,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_24_mlp_down_proj_neuron_2365",
+    "overall_importance": 0.00080108642578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00080108642578125,
+    "specificity_cv": 0.6430622009569378,
+    "selectivity_score": 0.6430622009569378,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_3_mlp_up_proj_neuron_2484",
+    "overall_importance": 0.00080108642578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00080108642578125,
+    "specificity_cv": 0.7387862796833773,
+    "selectivity_score": 0.7387862796833773,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_1637",
+    "overall_importance": 0.00080108642578125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00080108642578125,
+    "specificity_cv": 0.6454091432961967,
+    "selectivity_score": 0.6454091432961967,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1759",
+    "overall_importance": 0.000797271728515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000797271728515625,
+    "specificity_cv": 0.6513439813011297,
+    "selectivity_score": 0.6513439813011297,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_1257",
+    "overall_importance": 0.000797271728515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000797271728515625,
+    "specificity_cv": 0.6493203883495146,
+    "selectivity_score": 0.6493203883495146,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_2_mlp_gate_proj_neuron_3579",
+    "overall_importance": 0.000797271728515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000797271728515625,
+    "specificity_cv": 0.7047418335089568,
+    "selectivity_score": 0.7047418335089568,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_2193",
+    "overall_importance": 0.000797271728515625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000797271728515625,
+    "specificity_cv": 0.6533802266510356,
+    "selectivity_score": 0.6533802266510356,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_499",
+    "overall_importance": 0.00079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00079345703125,
+    "specificity_cv": 0.6640063846767758,
+    "selectivity_score": 0.6640063846767758,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_326",
+    "overall_importance": 0.00079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00079345703125,
+    "specificity_cv": 0.6517822169996083,
+    "selectivity_score": 0.6517822169996083,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_991",
+    "overall_importance": 0.00079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00079345703125,
+    "specificity_cv": 0.6723232323232323,
+    "selectivity_score": 0.6723232323232323,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_2227",
+    "overall_importance": 0.00079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00079345703125,
+    "specificity_cv": 0.6613672496025437,
+    "selectivity_score": 0.6613672496025437,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1415",
+    "overall_importance": 0.00079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00079345703125,
+    "specificity_cv": 0.6653338664534186,
+    "selectivity_score": 0.6653338664534186,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1386",
+    "overall_importance": 0.00079345703125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00079345703125,
+    "specificity_cv": 0.6397539407920031,
+    "selectivity_score": 0.6397539407920031,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_2492",
+    "overall_importance": 0.000789642333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000789642333984375,
+    "specificity_cv": 0.646875,
+    "selectivity_score": 0.646875,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1633",
+    "overall_importance": 0.000789642333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000789642333984375,
+    "specificity_cv": 0.6499215070643642,
+    "selectivity_score": 0.6499215070643642,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3303",
+    "overall_importance": 0.000789642333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000789642333984375,
+    "specificity_cv": 0.6501766784452296,
+    "selectivity_score": 0.6501766784452296,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1855",
+    "overall_importance": 0.000789642333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000789642333984375,
+    "specificity_cv": 0.643481639790169,
+    "selectivity_score": 0.643481639790169,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_3486",
+    "overall_importance": 0.000789642333984375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000789642333984375,
+    "specificity_cv": 0.704381114419396,
+    "selectivity_score": 0.704381114419396,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1924",
+    "overall_importance": 0.00078582763671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00078582763671875,
+    "specificity_cv": 0.6367851622874807,
+    "selectivity_score": 0.6367851622874807,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_2429",
+    "overall_importance": 0.00078582763671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00078582763671875,
+    "specificity_cv": 0.6358024691358025,
+    "selectivity_score": 0.6358024691358025,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3552",
+    "overall_importance": 0.00078582763671875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00078582763671875,
+    "specificity_cv": 0.6812732534105002,
+    "selectivity_score": 0.6812732534105002,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_up_proj_neuron_6305",
+    "overall_importance": 0.000782012939453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000782012939453125,
+    "specificity_cv": 0.643847380689486,
+    "selectivity_score": 0.643847380689486,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_326",
+    "overall_importance": 0.000782012939453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000782012939453125,
+    "specificity_cv": 0.6368932038834951,
+    "selectivity_score": 0.6368932038834951,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_3154",
+    "overall_importance": 0.000782012939453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000782012939453125,
+    "specificity_cv": 0.6827643630308077,
+    "selectivity_score": 0.6827643630308077,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3024",
+    "overall_importance": 0.0007781982421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0007781982421875,
+    "specificity_cv": 0.6588615260395639,
+    "selectivity_score": 0.6588615260395639,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_2492",
+    "overall_importance": 0.0007781982421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0007781982421875,
+    "specificity_cv": 0.638747553816047,
+    "selectivity_score": 0.638747553816047,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_25_mlp_down_proj_neuron_925",
+    "overall_importance": 0.0007781982421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0007781982421875,
+    "specificity_cv": 0.6773189458393858,
+    "selectivity_score": 0.6773189458393858,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_27_mlp_down_proj_neuron_2365",
+    "overall_importance": 0.0007781982421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0007781982421875,
+    "specificity_cv": 0.6379984362783424,
+    "selectivity_score": 0.6379984362783424,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1828",
+    "overall_importance": 0.0007781982421875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.0007781982421875,
+    "specificity_cv": 0.6688524590163935,
+    "selectivity_score": 0.6688524590163935,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_0_mlp_gate_proj_neuron_8490",
+    "overall_importance": 0.000774383544921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000774383544921875,
+    "specificity_cv": 0.8209275875142171,
+    "selectivity_score": 0.8209275875142171,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_2425",
+    "overall_importance": 0.000774383544921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000774383544921875,
+    "specificity_cv": 0.6493402638944422,
+    "selectivity_score": 0.6493402638944422,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_up_proj_neuron_11722",
+    "overall_importance": 0.000774383544921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000774383544921875,
+    "specificity_cv": 0.6609686609686609,
+    "selectivity_score": 0.6609686609686609,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1346",
+    "overall_importance": 0.000774383544921875,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000774383544921875,
+    "specificity_cv": 0.6653011061040557,
+    "selectivity_score": 0.6653011061040557,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1622",
+    "overall_importance": 0.00077056884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00077056884765625,
+    "specificity_cv": 0.6374753451676528,
+    "selectivity_score": 0.6374753451676528,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_gate_proj_neuron_4425",
+    "overall_importance": 0.00077056884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00077056884765625,
+    "specificity_cv": 0.7995547034448637,
+    "selectivity_score": 0.7995547034448637,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_3842",
+    "overall_importance": 0.00077056884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00077056884765625,
+    "specificity_cv": 0.6420341676599126,
+    "selectivity_score": 0.6420341676599126,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_595",
+    "overall_importance": 0.00077056884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00077056884765625,
+    "specificity_cv": 0.6733333333333333,
+    "selectivity_score": 0.6733333333333333,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_1622",
+    "overall_importance": 0.00077056884765625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00077056884765625,
+    "specificity_cv": 0.6547811993517018,
+    "selectivity_score": 0.6547811993517018,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_3842",
+    "overall_importance": 0.000766754150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000766754150390625,
+    "specificity_cv": 0.646562123039807,
+    "selectivity_score": 0.646562123039807,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1913",
+    "overall_importance": 0.000766754150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000766754150390625,
+    "specificity_cv": 0.6408927859705061,
+    "selectivity_score": 0.6408927859705061,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_2691",
+    "overall_importance": 0.000766754150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000766754150390625,
+    "specificity_cv": 0.6421725239616614,
+    "selectivity_score": 0.6421725239616614,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_3403",
+    "overall_importance": 0.000766754150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000766754150390625,
+    "specificity_cv": 0.6833829154271143,
+    "selectivity_score": 0.6833829154271143,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_down_proj_neuron_2209",
+    "overall_importance": 0.000766754150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000766754150390625,
+    "specificity_cv": 0.6358244365361803,
+    "selectivity_score": 0.6358244365361803,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_20_mlp_up_proj_neuron_10319",
+    "overall_importance": 0.000766754150390625,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000766754150390625,
+    "specificity_cv": 1.0315944420783658,
+    "selectivity_score": 1.0315944420783658,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_1591",
+    "overall_importance": 0.000762939453125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000762939453125,
+    "specificity_cv": 0.6498781478472786,
+    "selectivity_score": 0.6498781478472786,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_up_proj_neuron_14327",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.6393574297188755,
+    "selectivity_score": 0.6393574297188755,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_28_mlp_down_proj_neuron_2429",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.6638865721434529,
+    "selectivity_score": 0.6638865721434529,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_246",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.6672254819782062,
+    "selectivity_score": 0.6672254819782062,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_19_mlp_down_proj_neuron_1225",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.6815068493150684,
+    "selectivity_score": 0.6815068493150684,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_27_mlp_up_proj_neuron_13174",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 1.0371321335350305,
+    "selectivity_score": 1.0371321335350305,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_1_mlp_up_proj_neuron_9329",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.7152645175783444,
+    "selectivity_score": 0.7152645175783444,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_31_mlp_up_proj_neuron_3764",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.8234704598723026,
+    "selectivity_score": 0.8234704598723026,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_18_mlp_down_proj_neuron_1522",
+    "overall_importance": 0.000759124755859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000759124755859375,
+    "specificity_cv": 0.6589403973509934,
+    "selectivity_score": 0.6589403973509934,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_23_mlp_down_proj_neuron_37",
+    "overall_importance": 0.00075531005859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00075531005859375,
+    "specificity_cv": 0.6889952153110048,
+    "selectivity_score": 0.6889952153110048,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_24_mlp_down_proj_neuron_2317",
+    "overall_importance": 0.00075531005859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00075531005859375,
+    "specificity_cv": 0.7080911935628074,
+    "selectivity_score": 0.7080911935628074,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_2209",
+    "overall_importance": 0.00075531005859375,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.00075531005859375,
+    "specificity_cv": 0.6550868486352357,
+    "selectivity_score": 0.6550868486352357,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_22_mlp_down_proj_neuron_3214",
+    "overall_importance": 0.000751495361328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000751495361328125,
+    "specificity_cv": 0.6536706760680215,
+    "selectivity_score": 0.6536706760680215,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_16_mlp_down_proj_neuron_2525",
+    "overall_importance": 0.000751495361328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000751495361328125,
+    "specificity_cv": 0.6375404530744336,
+    "selectivity_score": 0.6375404530744336,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_858",
+    "overall_importance": 0.000751495361328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000751495361328125,
+    "specificity_cv": 0.6533996683250415,
+    "selectivity_score": 0.6533996683250415,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_17_mlp_down_proj_neuron_3151",
+    "overall_importance": 0.000751495361328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000751495361328125,
+    "specificity_cv": 0.6424785976355483,
+    "selectivity_score": 0.6424785976355483,
+    "classification": "Specific"
+  },
+  {
+    "neuron_key": "layer_21_mlp_down_proj_neuron_2323",
+    "overall_importance": 0.000751495361328125,
+    "preferred_language": "go",
+    "weight_for_preferred_lang": 0.000751495361328125,
+    "specificity_cv": 0.6568035007293186,
+    "selectivity_score": 0.6568035007293186,
+    "classification": "Specific"
+  }
+]

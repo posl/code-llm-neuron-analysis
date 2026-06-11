@@ -1,0 +1,26 @@
+{
+  "python": {
+    "library_path": "/mnt/sda/yz/projects/XLLM4SE/src/ast_probe_analysis/build/tree-sitter-python.so",
+    "available": true
+  },
+  "java": {
+    "library_path": "/mnt/sda/yz/projects/XLLM4SE/src/ast_probe_analysis/build/tree-sitter-java.so",
+    "available": true
+  },
+  "cpp": {
+    "library_path": "/mnt/sda/yz/projects/XLLM4SE/src/ast_probe_analysis/build/tree-sitter-cpp.so",
+    "available": true
+  },
+  "go": {
+    "library_path": "/mnt/sda/yz/projects/XLLM4SE/src/ast_probe_analysis/build/tree-sitter-go.so",
+    "available": true
+  },
+  "javascript": {
+    "library_path": "/mnt/sda/yz/projects/XLLM4SE/src/ast_probe_analysis/build/tree-sitter-javascript.so",
+    "available": true
+  },
+  "rust": {
+    "library_path": "/mnt/sda/yz/projects/XLLM4SE/src/ast_probe_analysis/build/tree-sitter-rust.so",
+    "available": true
+  }
+}

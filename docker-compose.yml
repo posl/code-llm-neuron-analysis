@@ -1,0 +1,28 @@
+services:
+  code-llm:
+    build: .
+    container_name: code-llm
+
+    env_file:
+      - .env
+
+    volumes:
+      - .:/workspace
+      - ./hf_cache:/root/.cache/huggingface
+
+    working_dir: /workspace
+
+    tty: true
+    stdin_open: true
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+    environment:
+      - HF_HOME=/root/.cache/huggingface
+      - HF_TOKEN=${HF_TOKEN}
